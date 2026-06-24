@@ -1,3 +1,5 @@
+![Preview](preview.png)
+
 # 🎙 AI Survey Agent
 
 AI-платформа для автоматизированных интервью и исследований — **FastAPI** + **PostgreSQL** + **OpenAI GPT**.
